@@ -2,7 +2,7 @@
 
 # ArcDPS Boon Table
 
-![preview](https://i.imgur.com/g9TPJor.png)
+![preview](https://i.imgur.com/XZ7e4nD.png)
 
 ## Usage
 
